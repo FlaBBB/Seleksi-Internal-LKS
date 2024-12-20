@@ -1,0 +1,2 @@
+flag={flag1:md5 file}
+GRFLKS24{cekstr1ngs:89fa19e172499b8b88d0b71d0a8c9977}
