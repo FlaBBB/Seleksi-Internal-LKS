@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  aes:
+    build:
+      context: .
+    ports:
+      - "13630:13630" 
+    restart: always
